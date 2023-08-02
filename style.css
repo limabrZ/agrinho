@@ -5,11 +5,12 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    color: #000;
 }
 
 .cabeçalho { 
-    background-color: #424E61;
-    color: white;
+    background-color: #fdfdfd;
+    color: rgb(87, 76, 76);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,12 +28,12 @@ body{
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 20%;
 }
 
 .Escola{
-    background-image: linear-gradient(#424E61,#4EBFE9);
-    color: white;
+    background-image: linear-gradient(#f6f8f3,#5eecb1);
+    color: rgb(31, 27, 27);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,12 +59,12 @@ body{
 .estudante-div{
    text-align: center;
 }
-.estudante-titulo{
+.Entre-em-contato-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.Entre-em-contato-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
