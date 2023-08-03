@@ -69,7 +69,7 @@ body{
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .rodape{
-    background-color: rgb(243, 187, 187);
+   background-color: #5eecb1;
     text-align: center;
 }
 .rodape-imagem{
