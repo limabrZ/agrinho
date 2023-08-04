@@ -1,11 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
 body{
     font-family: 'Poppins', sans-serif;
     color: #000;
+    background-image: linear-gradient(#ffffff,#5eecb1);
 }
 
 .cabeçalho { 
@@ -32,8 +29,6 @@ body{
 }
 
 .Escola{
-    background-image: linear-gradient(#ffffff,#5eecb1);
-    color: rgb(31, 27, 27);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,23 +39,21 @@ body{
     width: 40%;
 }
 
-.escola-titulo{
+.titulo{
     padding: 24px 0;
 }
 
-.estudante-imagem{
-    width: 120px;
-}
-
-.estudante-icone{
-    width: 4px;
+.grupo-image{
     background-color: #5eecb1;
+    height: 70px;
+    padding: 12px 0;
 }
 
 .estudante-div{
    text-align: center;
    background-color: #5eecb1;
 }
+
 .Entre-em-contato-titulo{
     text-align: center;
     padding: 50px 0;
@@ -71,50 +64,49 @@ body{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-.rodape{
-   background-color: #5eecb1;
-    text-align: center;
-    height: 150px;
-}
-.rodape-imagem{
-    background-color: #5eecb1;
-    height: 70px;
-    padding: 12px 0;
-}
+
 .Whatsapp-link{
     background-color: #5eecb1;
     display: inline-block;
     margin: 0 10px;
     font-size: 24px;
-
 }
 
 .whatsapp-info{
     height: 30px;
-
 }
 
-
-
-
-
-
-.titulo-final{
-    background-color: #5eecb1;
-
-    text-align: center;
-}
-.texto-final{
-    background-color: #5eecb1;
-  text-align: center;
-  padding: 20px;
-}
 .logo-do-colegio{
     background-color: #5eecb1;
     align-items: center;
    
 }
-.ultimo-link{
+
+.div-conteudo2{
+    width: 80%;
+}
+
+.rodape{
+    background-color: #5eecb1;
+    padding: 50px;
+}
+
+.rodape-div-conteudo{
+    width: 40%;
+}
+
+.rodape-titulo-final{
     background-color: #5eecb1;
     text-align: center;
+}
+
+.rodape-texto-final{
+    background-color: #5eecb1;
+    text-align: center;
+    padding: 20px;
+}
+
+.rodape-imagem{
+    background-color: #5eecb1;
+    height: 70px;
 }
