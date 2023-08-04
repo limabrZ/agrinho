@@ -54,14 +54,17 @@ body{
 
 .estudante-icone{
     width: 4px;
+    background-color: #5eecb1;
 }
 
 .estudante-div{
    text-align: center;
+   background-color: #5eecb1;
 }
 .Entre-em-contato-titulo{
     text-align: center;
     padding: 50px 0;
+    background-color: #5eecb1;
 }
 
 .Entre-em-contato-todos{
@@ -71,9 +74,10 @@ body{
 .rodape{
    background-color: #5eecb1;
     text-align: center;
+    height: 440px;
 }
 .rodape-imagem{
-    height: 40px;
+    height: 70px;
     padding: 12px 0;
 }
 .Whatsapp{
