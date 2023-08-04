@@ -41,7 +41,7 @@ body{
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 40%;
 }
 
 .escola-titulo{
@@ -74,23 +74,47 @@ body{
 .rodape{
    background-color: #5eecb1;
     text-align: center;
-    height: 440px;
+    height: 150px;
 }
 .rodape-imagem{
+    background-color: #5eecb1;
     height: 70px;
     padding: 12px 0;
 }
 .Whatsapp-link{
+    background-color: #5eecb1;
     display: inline-block;
     margin: 0 10px;
     font-size: 24px;
 
 }
-.Whatsapp{
-    text-align: center;
-    padding: 50px 0;
+
+.whatsapp-info{
+    height: 30px;
+
 }
-.Falar{
+
+
+
+
+
+
+.titulo-final{
+    background-color: #5eecb1;
+
     text-align: center;
-    padding: 50px 0;
+}
+.texto-final{
+    background-color: #5eecb1;
+  text-align: center;
+  padding: 20px;
+}
+.logo-do-colegio{
+    background-color: #5eecb1;
+    align-items: center;
+   
+}
+.ultimo-link{
+    background-color: #5eecb1;
+    text-align: center;
 }
